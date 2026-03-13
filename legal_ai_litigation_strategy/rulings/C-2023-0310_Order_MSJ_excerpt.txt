@@ -1,0 +1,5 @@
+Defendant's motion for summary judgment is GRANTED IN PART and DENIED IN PART.
+
+Plaintiff has, to its credit, articulated specific furnace recipes and process windows that constitute its alleged secrets. To that limited extent, Plaintiff satisfies the reasonable particularity requirement. However, PX-028 and the testimony of Plaintiff's own process engineer confirm that calibration logs for earlier recipe variants were purged during a system migration.
+
+As a sanction under the Court's inherent authority and Rule 37, the Court narrows the case to the two later recipe sets for which some calibration history remains. Plaintiff may not present theories premised on earlier variants it can no longer substantiate, and the jury will be instructed that they may draw an adverse inference from the missing data.

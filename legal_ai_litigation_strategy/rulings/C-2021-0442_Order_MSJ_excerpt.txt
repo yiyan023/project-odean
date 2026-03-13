@@ -1,0 +1,5 @@
+Defendant's motion for summary judgment is GRANTED.
+
+Plaintiff's "AI talent engine" is described in marketing materials, conference decks, and customer-facing documents in terms that closely mirror the internal slide deck PX-039. Plaintiff has not pointed to any non-public feature engineering choices, model architectures, or decision rules that differ in substance from those public descriptions.
+
+Because Plaintiff has failed to identify specific, confidential mechanisms that could support a trade secret verdict—and because there is no evidence that Defendant used any materials beyond what Plaintiff voluntarily shared with the marketplace—no reasonable jury could find misappropriation on this record.

@@ -1,0 +1,21 @@
+CASE_ID: C-2021-0904
+MOTION_TYPE: MSJ
+SIDE: defendant
+
+INTRODUCTION
+
+Defendant Brighton & Cole moves for summary judgment on all claims. Plaintiff alleges misappropriation of vaguely described \"customer relationships\" and deployment know-how, but discovery shows its purported secrets are either publicly known or disclosed in routine onboarding materials.
+
+STATEMENT OF FACTS
+
+Plaintiff's product manager, Ryan Lopez, ultimately narrowed the alleged trade secrets to three deployment playbooks identified in PX-018, each linked to named enterprise customers and subject to role-based access controls. (Lopez Dep. 51:2–53:19.) Those playbooks describe standard implementation steps that sophisticated customers expect.
+
+ARGUMENT
+
+I. THE ASSERTED PLAYBOOKS ARE NOT LEGALLY COGNIZABLE TRADE SECRETS.
+
+Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019), instructs courts to scrutinize overbroad trade secret definitions. Here, however, plaintiff has identified discrete documents and tied them to specific confidentiality measures. Even so, the content of PX-018 is largely generic and overlaps with the parties' public marketing and SOW templates.
+
+II. PLAINTIFF CANNOT SHOW USE OR DISCLOSURE.
+
+Even assuming PX-018 is protectable, there is no evidence defendant used those exact playbooks. Defendant's internal deployment tooling, reflected in DX-041, implements a different configuration scheme and serves different customer segments.

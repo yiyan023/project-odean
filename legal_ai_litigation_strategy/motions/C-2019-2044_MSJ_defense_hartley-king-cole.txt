@@ -1,0 +1,21 @@
+CASE_ID: C-2019-2044
+MOTION_TYPE: MSJ
+SIDE: defendant
+
+INTRODUCTION
+
+Defendant moves for summary judgment on Plaintiff's trade secret claims arising out of its routing optimization engine. After extensive discovery, Plaintiff still cannot identify with precision what it contends is secret, nor can it show that any such secrets were used by Defendant. The evidence instead reflects industry-standard heuristics and capacity-planning practices.
+
+STATEMENT OF FACTS
+
+Plaintiff's operations director, Emily Zhang, testified that the alleged trade secrets are "three routing heuristics described in Section 4 of PX-004, along with the parameter ranges we tuned for our top twenty shippers." (Zhang Dep. 60:5–62:11.) But PX-004 itself reveals nothing more than high-level rules of thumb—prioritizing direct lanes, avoiding over-capacity corridors, and smoothing peak demand with simple penalty functions.
+
+ARGUMENT
+
+I. PLAINTIFF'S ALLEGED HEURISTICS ARE DERIVATIVE OF PUBLICLY KNOWN METHODS.
+
+As cases such as Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012), make clear, a plaintiff cannot claim trade secret protection over techniques that can be reverse-engineered from public behavior or are described in industry literature. The heuristic forms and objective functions in PX-004 match standard formulations in public routing and TMS documentation.
+
+II. THERE IS NO EVIDENCE DEFENDANT USED PLAINTIFF'S SPECIFIC PARAMETERS.
+
+Even if Plaintiff could claim secrecy over its tuned parameter ranges, it has no admissible evidence that Defendant adopted those values. Defendant's analyst, Noah Greene, testified that DX-019 reflects an independent spreadsheet model built from its own lane data, and there is no overlap with Plaintiff's shipper-specific parameters.

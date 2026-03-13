@@ -1,0 +1,21 @@
+CASE_ID: C-2018-0220
+MOTION_TYPE: MSJ
+SIDE: defendant
+
+INTRODUCTION
+
+Defendant moves for summary judgment on Plaintiff's claims that its real-time bidding algorithms constitute trade secrets. Plaintiff has never identified any specific model, feature set, or bidding rule that is not either publicly documented or inherent in standard RTB platforms. Instead, it asserts rights in its "bidding stack as a whole," a theory Vertex squarely rejects.
+
+STATEMENT OF FACTS
+
+Plaintiff's data science lead, Jonas Meyer, testified that the secrets live in "the whole modeling stack. The logs, the feature engineering code, the tuning logic. It's hard to separate." (Meyer Dep. 27:9–29:3.) He pointed to PX-012 as one place where those alleged secrets reside, but conceded that PX-012 is a sample of historical bid-response logs, not a frozen model snapshot.
+
+ARGUMENT
+
+I. PLAINTIFF'S VAGUE, STACK-WIDE THEORY FAILS UNDER VERTEX.
+
+Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019), makes clear that a plaintiff cannot designate an entire software stack as a trade secret. Without concrete models or parameterizations, there is no administrable way for a jury to separate protectable information from general industry know-how.
+
+II. THE BID-RESPONSE LOGS DO NOT ESTABLISH MISAPPROPRIATION.
+
+PX-012 reflects the outcomes of Plaintiff's historical auctions, not the internal logic of its models. Because auction outcomes are observable to counterparties and can be simulated using public market data, Plaintiff cannot plausibly claim secrecy over the patterns in PX-012 alone. And there is no evidence that Defendant had access to any non-public configuration information beyond these logs.

@@ -1,0 +1,21 @@
+CASE_ID: C-2020-0312
+MOTION_TYPE: MSJ
+SIDE: plaintiff
+
+INTRODUCTION
+
+Halcyon & Pierce LLP, on behalf of its client, moves for partial summary judgment on liability for trade secret misappropriation. Defendant's competing platform emerged only months after key engineers departed our client, and internal emails (e.g., DX-104) make clear that the design was informed by confidential discussions under NDA.
+
+STATEMENT OF FACTS
+
+Plaintiff has invested over a decade in developing its end-to-end analytics platform. While the system is complex, the trade secrets at issue are best understood as the platform as a whole: the source code, machine learning models, data pipelines, and orchestration logic that together deliver real-time insights for enterprise customers.
+
+ARGUMENT
+
+I. DEFENDANT'S PLATFORM IS SUBSTANTIALLY SIMILAR TO PLAINTIFF'S PROTECTED PLATFORM AS A WHOLE.
+
+Our client does not contend that any single file standing alone is the trade secret. Rather, the combination of architectural choices, feature ordering, and performance optimizations constitutes a protectable body of confidential know-how. See Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016).
+
+II. INEVITABLE DISCLOSURE SUPPORTS AN INFERENCE OF MISAPPROPRIATION.
+
+Given the overlap in engineering teams and functionality, misappropriation can be inferred even absent direct evidence of copying. The same engineers cannot unlearn the core concepts they developed at plaintiff. See id.

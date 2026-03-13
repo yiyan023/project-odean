@@ -1,0 +1,5 @@
+Defendant's motion for summary judgment is GRANTED.
+
+Plaintiff's care gap models, as described in PX-033 and related testimony, are built entirely from Medicare claims data and coding conventions that are a matter of public record. While Plaintiff may have invested effort in feature engineering and calibration, it has not identified any input or transformation that is not derivable from those public sources.
+
+Absent some showing that Plaintiff contributed non-public information or techniques beyond what any skilled data scientist could infer from the same claims corpus, Plaintiff's models cannot be treated as trade secrets. Summary judgment is therefore appropriate.

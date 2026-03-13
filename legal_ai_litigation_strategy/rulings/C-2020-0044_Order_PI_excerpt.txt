@@ -1,0 +1,5 @@
+Plaintiff's motion for a preliminary injunction is GRANTED IN PART.
+
+Plaintiff has demonstrated a likelihood of success on its claim that the feature weights and thresholds embodied in its readmission scorecards constitute protectable trade secrets. PX-025 and Dr. Price's testimony identify specific, non-public parameterizations that materially affect how risk scores are computed and deployed in participating hospitals.
+
+The Court will enter an injunction prohibiting Defendant, pending final judgment, from using scorecards or configuration files that incorporate those weights and thresholds or their functional equivalents. Plaintiff's broader request to enjoin any competing readmission product is denied as overbroad.

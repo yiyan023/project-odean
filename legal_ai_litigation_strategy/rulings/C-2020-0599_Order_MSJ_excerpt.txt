@@ -1,0 +1,5 @@
+Defendant's motion for summary judgment is GRANTED.
+
+Plaintiff's descriptions of its high-frequency trading strategies remain at a level of generality—"microstructure-aware momentum" and "adaptive liquidity capture"—that does not satisfy the requirement of reasonable particularity. Plaintiff never concretely identified which indicators, parameterizations, or execution rules it claims as trade secrets.
+
+Compounding that deficiency, PX-014 confirms that Plaintiff failed to preserve tick data for multiple days it cites as critical to its theory of misappropriation. As in Helios, that spoliation undermines any reliable comparison between Plaintiff's and Defendant's performance and warrants an adverse inference. On this record, no reasonable jury could find for Plaintiff.

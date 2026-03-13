@@ -1,0 +1,25 @@
+expert_id,case_id,side,expert_name,discipline,primary_issue,report_filename,deposition_taken,daubert_motion_filed,daubert_outcome,trial_testimony_given,jury_reliance_indicator
+EXP-C2020-PL-DAM-1,C-2020-0312,us,Dr. Hannah Liu,damages,lost_profits,expert_reports/C-2020-0312_PX_Damages_Expert_Liu.pdf,true,true,granted_in_part,true,limited_plaintiff_damages
+EXP-C2020-DF-TECH-1,C-2020-0312,them,Dr. Alan Ortiz,forensics,misappropriation,expert_reports/C-2020-0312_DX_Forensics_Ortiz.pdf,true,true,denied,true,relied_on_defense_technical
+EXP-C2019-PL-DAM-1,C-2019-1187,us,Prof. Elena Markovic,damages,unjust_enrichment,expert_reports/C-2019-1187_PX_Damages_Expert_Markovic.pdf,true,true,granted,false,excluded_plaintiff_expert
+EXP-C2019-DF-IND-1,C-2019-1187,them,James Patel,industry_practices,misappropriation,expert_reports/C-2019-1187_DX_Industry_Expert_Patel.pdf,true,false,none,true,relied_on_defense_industry
+EXP-C2021-DF-DAM-1,C-2021-0904,us,Dr. Sofia Bennett,damages,lost_profits,expert_reports/C-2021-0904_DX_Damages_Expert_Bennett.pdf,true,true,denied,true,relied_on_defense_damages
+EXP-C2021-PL-TECH-1,C-2021-0904,them,Dr. Marcus Hale,forensics,misappropriation,expert_reports/C-2021-0904_PX_Forensics_Expert_Hale.pdf,true,true,denied,true,mixed_weight
+EXP-C2018-PL-ALGO-1,C-2018-0220,us,Dr. Karen Soto,damages,valuation,expert_reports/C-2018-0220_PX_Valuation_Expert_Soto.pdf,true,true,denied,false,limited_plaintiff_damages
+EXP-C2018-DF-ADTECH-1,C-2018-0220,them,Dr. Neil Fraser,industry_practices,misappropriation,expert_reports/C-2018-0220_DX_Industry_Expert_Fraser.pdf,true,false,none,false,relied_on_defense_industry
+EXP-C2019-LOG-PL-1,C-2019-2044,us,Dr. Victor Han,damages,lost_profits,expert_reports/C-2019-2044_PX_Damages_Expert_Han.pdf,true,true,denied,true,relied_on_plaintiff_damages
+EXP-C2019-LOG-DF-1,C-2019-2044,them,Laura Beck,statistics,causation,expert_reports/C-2019-2044_DX_Stats_Expert_Beck.pdf,true,true,denied,true,limited_defense_causation
+EXP-C2020-STREAM-DF-1,C-2020-1450,us,Dr. Omar Singh,damages,apportionment,expert_reports/C-2020-1450_DX_Damages_Expert_Singh.pdf,true,true,granted_in_part,true,limited_defense_damages
+EXP-C2020-STREAM-PL-1,C-2020-1450,them,Prof. Alyssa Grant,damages,unjust_enrichment,expert_reports/C-2020-1450_PX_Damages_Expert_Grant.pdf,true,false,none,true,relied_on_plaintiff_damages
+EXP-C2022-PL-DAM-1,C-2022-0678,us,Dr. Naomi Keller,damages,lost_profits,expert_reports/C-2022-0678_PX_Damages_Expert_Keller.pdf,true,true,granted_in_part,false,excluded_plaintiff_expert
+EXP-C2019-LOG-CAUSE-1,C-2019-2044,them,Dr. Irene Costa,statistics,causation,expert_reports/C-2019-2044_DX_Stats_Expert_Costa.pdf,true,true,denied,true,limited_defense_causation
+EXP-C2020-STREAM-TECH-1,C-2020-1450,us,Dr. Felix Romero,forensics,misappropriation,expert_reports/C-2020-1450_DX_Forensics_Expert_Romero.pdf,true,true,denied,true,relied_on_defense_technical
+EXP-C2019-ONBOARD-PL-1,C-2019-0113,us,Dr. Lila Chen,damages,lost_profits,expert_reports/C-2019-0113_PX_Damages_Expert_Chen.pdf,true,true,denied,true,relied_on_plaintiff_damages
+EXP-C2019-ONBOARD-DF-1,C-2019-0113,them,Mark Hastings,industry_practices,misappropriation,expert_reports/C-2019-0113_DX_Industry_Expert_Hastings.pdf,true,false,none,true,mixed_weight
+EXP-C2019-AD-PL-1,C-2019-0666,us,Prof. Rajiv Malhotra,damages,unjust_enrichment,expert_reports/C-2019-0666_PX_Damages_Expert_Malhotra.pdf,true,true,granted,false,excluded_plaintiff_expert
+EXP-C2020-HF-PL-1,C-2020-0599,us,Dr. Emily Kovacs,damages,lost_profits,expert_reports/C-2020-0599_PX_Damages_Expert_Kovacs.pdf,true,true,granted_in_part,false,limited_plaintiff_damages
+EXP-C2020-HF-DF-1,C-2020-0599,them,Dr. Andre Silva,forensics,misappropriation,expert_reports/C-2020-0599_DX_Forensics_Expert_Silva.pdf,true,false,none,true,relied_on_defense_technical
+EXP-C2021-DEV-PL-DAM-1,C-2021-0055,us,Prof. Hannah Ortiz,damages,productivity,expert_reports/C-2021-0055_PX_Damages_Expert_Ortiz.pdf,true,true,granted_in_part,false,limited_plaintiff_damages
+EXP-C2022-CARE-PL-1,C-2022-0407,us,Dr. Aisha Rahman,statistics,misappropriation,expert_reports/C-2022-0407_PX_Stats_Expert_Rahman.pdf,true,true,denied,true,mixed_weight
+EXP-C2023-YIELD-PL-1,C-2023-0310,us,Dr. Matteo Ricci,damages,lost_profits,expert_reports/C-2023-0310_PX_Damages_Expert_Ricci.pdf,true,true,granted_in_part,false,excluded_plaintiff_expert
+EXP-C2023-YIELD-DF-1,C-2023-0310,them,Dr. Sunhee Park,industry_practices,misappropriation,expert_reports/C-2023-0310_DX_Industry_Expert_Park.pdf,true,false,none,true,relied_on_defense_industry

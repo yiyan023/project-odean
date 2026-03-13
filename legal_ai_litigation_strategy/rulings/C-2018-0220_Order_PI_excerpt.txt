@@ -1,0 +1,5 @@
+Plaintiff's motion for a preliminary injunction is DENIED.
+
+At this early stage, Plaintiff has not shown a likelihood of irreparable harm absent an injunction barring Defendant's ad platform from participating in real-time bidding. The record suggests substantial convergence in industry practices, and Plaintiff has not yet isolated any concrete, non-public component of its bidding stack that would support such broad relief.
+
+Any economic injury arising from alleged misappropriation can, on the present showing, be addressed through monetary damages if Plaintiff ultimately prevails. The extraordinary remedy of a preliminary injunction is therefore unwarranted. 

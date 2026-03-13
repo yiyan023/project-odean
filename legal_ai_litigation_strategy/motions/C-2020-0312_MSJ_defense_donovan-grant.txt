@@ -1,0 +1,21 @@
+CASE_ID: C-2020-0312
+MOTION_TYPE: MSJ
+SIDE: defendant
+
+INTRODUCTION
+
+Defendant respectfully moves for summary judgment. After three years of discovery, plaintiff still cannot say what its alleged trade secrets are with reasonable particularity, nor can it trace any specific secret to any feature of our product. At most, plaintiff asserts vague rights in a "platform as a whole" that looks like every other modern analytics stack.
+
+STATEMENT OF FACTS
+
+Plaintiff's Rule 30(b)(6) designee, Laura Chen, could not identify a single document or repository that embodies the alleged trade secrets. (Chen Dep. 45:7–47:19.) Instead, she testified that "it's really the platform as a whole," a formulation multiple courts have rejected. Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019).
+
+ARGUMENT
+
+I. PLAINTIFF HAS FAILED TO IDENTIFY ITS ALLEGED TRADE SECRETS WITH REASONABLE PARTICULARITY.
+
+Courts routinely grant summary judgment where, as here, a plaintiff insists that its entire product or "way of doing business" is the secret. See Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019) (affirming summary judgment where plaintiff's trade secret definition shifted and encompassed an entire software suite).
+
+II. PLAINTIFF'S DISCOVERY MISCONDUCT WARRANTS AN ADVERSE INFERENCE AND NARROWING OF THE CASE.
+
+Key pre-2018 source-code repositories were not preserved, and plaintiff produced the PX-031 "security roadmap" only after Donovan Grant LLP raised gaps in access-control evidence. Under Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010), the Court should impose an adverse inference and cabin the case to post-2018 versions for which some logs remain.

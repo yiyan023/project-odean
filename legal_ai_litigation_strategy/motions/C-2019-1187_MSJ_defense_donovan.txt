@@ -1,0 +1,21 @@
+CASE_ID: C-2019-1187
+MOTION_TYPE: MSJ
+SIDE: defendant
+
+INTRODUCTION
+
+This is a paradigmatic case where summary judgment should be granted because plaintiff has never committed to a coherent definition of its alleged trade secrets. The record instead shows shifting descriptions of "the fab as a whole" and missing process-control logs (PX-010) that would purportedly prove misappropriation.
+
+STATEMENT OF FACTS
+
+In deposition, plaintiff's 30(b)(6) witness, Harish Rao, testified that the claimed secrets are "the way we run the fab" and conceded there is no single document that embodies them. (Rao Dep. 33:4–36:21.) He further admitted that earlier revisions of PX-010 were destroyed when logging was disabled. (Id. 92:3–93:15.)
+
+ARGUMENT
+
+I. PLAINTIFF'S VAGUE, EVOLVING DEFINITIONS ARE FATAL.
+
+As Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019), makes clear, a plaintiff must identify specific information, not an entire manufacturing operation, as a trade secret. Here, plaintiff oscillates between recipes, parameters, and "the way we run the fab," making it impossible for the Court to instruct a jury or for defendant to tailor its defense.
+
+II. SPOLIATION OF KEY LOGS WARRANTS ADVERSE INFERENCES.
+
+Plaintiff disabled revision history on PX-010, eliminating the very data it claims would show misappropriation. Under Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010), that conduct supports an adverse inference that earlier versions were unfavorable and independently justifies narrowing or dismissal of plaintiff's claims.

@@ -1,0 +1,7 @@
+Defendant's motion for summary judgment is DENIED.
+
+Unlike in the Donovan cases cited by Defendant, Plaintiff here has identified a finite set of documents — three deployment playbooks collected in PX-018 — as the trade secrets at issue. Those playbooks are linked to specific enterprise customers, are accessible only to a limited set of roles, and are subject to customer-specific NDAs and internal access controls.
+
+Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019), is therefore distinguishable. There, the plaintiff asserted rights in an entire software suite without ever reducing its claim to particular documents or modules. Here, Plaintiff has drawn a sufficiently clear boundary to permit a jury to decide whether Defendant misappropriated the identified playbooks.
+
+Nor is this a case in which spoliation or discovery misconduct justifies narrowing the record. The evidence inventory reflects timely production of the key materials, and Defendant has not identified missing logs comparable to those at issue in Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010).

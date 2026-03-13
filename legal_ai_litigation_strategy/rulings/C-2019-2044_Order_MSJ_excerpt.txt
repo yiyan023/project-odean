@@ -1,0 +1,5 @@
+Defendant's motion for summary judgment is DENIED.
+
+Plaintiff has narrowed its claimed trade secrets to three routing heuristics described in PX-004, together with associated parameter ranges for a defined set of shippers. That articulation is sufficiently concrete to permit a jury to distinguish the alleged secrets from general logistics know-how.
+
+Defendant argues that the heuristics are "just math" and indistinguishable from public formulations, but internal email threads and version-control history indicate that Plaintiff tuned the parameters using confidential performance data and that those tuned ranges materially influenced routing decisions. Whether Defendant used those specific heuristics or merely similar ideas is a disputed question of fact inappropriate for resolution on summary judgment.

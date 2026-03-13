@@ -1,0 +1,21 @@
+CASE_ID: C-2022-0678
+MOTION_TYPE: Daubert
+SIDE: defendant
+
+INTRODUCTION
+
+Defendant moves to exclude the opinions of Plaintiff's damages expert, Dr. Naomi Keller. Dr. Keller's blockbuster-sales scenario rests on speculative assumptions about future indications, regulatory approvals, and payer mix that are untethered to the factual record. Under Rule 702 and Daubert, those opinions are inadmissible.
+
+STATEMENT OF FACTS
+
+Dr. Keller opines that misappropriation of Plaintiff's clinical trial protocols will cost Plaintiff "at least $500 million" in lost profits. She bases that figure on a projected sequence of label expansions, optimistic penetration rates in each market, and an assumed royalty rate that appears nowhere in the contemporaneous business plans. Her model does not account for competitive entrants or for the fact that PX-030 covers only a subset of the development program.
+
+ARGUMENT
+
+I. DR. KELLER'S METHODOLOGY IS SPECULATIVE AND NON-REPRODUCIBLE.
+
+Daubert requires that expert testimony be grounded in reliable methods, not guesswork. Dr. Keller did not perform any sensitivity analyses, scenario testing, or benchmarking against actual deal comparables. Her spreadsheet uses a single "success case" trajectory and treats every step in the clinical and commercial path as a certainty.
+
+II. HER OPINIONS DO NOT ISOLATE THE CONTRIBUTION OF THE ALLEGED TRADE SECRETS.
+
+Even if some protocols in PX-030 qualify as trade secrets, Dr. Keller makes no attempt to separate the value of those specific documents from the value of Plaintiff's broader clinical and commercial capabilities. By attributing all forecast profits to the protocols alone, she invites the jury to award windfall damages unrelated to any proven misappropriation.

@@ -1,0 +1,31 @@
+case_id,exhibit_id,producing_party,custodian_name,custodian_role,system_source,doc_type,hot_doc_flag,used_in_motion,used_at_trial,impeachment_use_flag,spoliation_related_flag,notes
+C-2020-0312,PX-023,us,Laura Chen,plaintiff_cto,github,source_code,true,true,true,false,false,Snapshot of pre-2018 algorithm implementation referenced in MSJ briefing.
+C-2020-0312,PX-031,us,Laura Chen,plaintiff_cto,sharepoint,presentation,true,true,true,true,true,Security roadmap deck produced late; used by Donovan to argue inadequate controls and spoliation.
+C-2020-0312,DX-104,them,Evan Morales,defendant_engineering_manager,gmail,email,true,true,true,true,false,Email thread suggesting plaintiff shared demo builds without NDA.
+C-2019-1187,PX-010,us,Harish Rao,plaintiff_process_engineer,sharepoint,spreadsheet,true,true,false,false,true,Missing revision history for process-control spreadsheet; central to spoliation dispute.
+C-2019-1187,DX-057,them,Sarah Ingram,defendant_ops_director,gmail,email,true,true,true,true,false,Email impeaching plaintiff 30(b)(6) testimony about lab access restrictions.
+C-2019-1187,PX-021,us,Monica Feld,plaintiff_gc,sharepoint,policy,false,false,false,false,false,High-level trade secret policy not tailored to manufacturing process.
+C-2021-0904,PX-018,them,Ryan Lopez,plaintiff_product_manager,jira,document,true,true,true,false,false,Ticket linking deployment playbooks to named customers with explicit access controls.
+C-2021-0904,DX-032,us,Anita Rao,defendant_success_lead,slack,chat_export,false,false,true,false,false,Slack thread about tightening access to customer lists before launch.
+C-2021-0904,DX-041,us,Victor Chang,defendant_cto,github,source_code,true,true,true,false,false,Redacted snippet of internal deployment tooling showing segregation between public and confidential configs.
+C-2018-0220,PX-012,us,Jonas Meyer,plaintiff_data_science_lead,bigquery,table_export,true,true,false,false,false,Export of historical bid-response logs used in valuation model.
+C-2018-0220,DX-021,them,Lena Ortiz,defendant_product_manager,gmail,email,false,true,false,true,false,Email suggesting plaintiff reused off-the-shelf open-source components for core algorithm.
+C-2019-2044,PX-004,us,Emily Zhang,plaintiff_ops_director,postgres,table_export,true,true,true,false,false,Routing simulation outputs tying optimization parameters to fuel savings.
+C-2019-2044,DX-019,them,Noah Greene,defendant_analyst,excel,spreadsheet,false,true,true,false,false,Simplified spreadsheet challenging incremental value of plaintiff's routes.
+C-2020-1450,PX-045,them,Chloe Diaz,plaintiff_growth_head,redshift,table_export,true,true,true,false,false,Cohort-level streaming engagement metrics used by plaintiff's expert.
+C-2020-1450,DX-077,us,Marco Ruiz,defendant_research_lead,github,source_code,true,true,true,false,false,Annotated notebook showing independent development of recommendation model variant.
+C-2022-0678,PX-030,us,Dr. Naomi Keller,plaintiff_clinical_lead,sharepoint,protocol,true,true,false,false,false,Phase II trial protocol marked confidential and tied to specific indication.
+C-2022-0678,DX-011,them,Patrick Long,defendant_bizdev_head,gmail,email,false,true,false,false,false,Negotiation thread about access to de-identified trial data.
+C-2019-2044,PX-004,us,Emily Zhang,plaintiff_ops_director,postgres,table_export,true,true,true,false,false,Routing simulation outputs tying optimization parameters to confidential shipper data.
+C-2019-2044,DX-019,them,Noah Greene,defendant_analyst,excel,spreadsheet,false,true,true,false,false,Simplified spreadsheet challenging incremental value of plaintiff's routes.
+C-2020-1450,PX-045,them,Chloe Diaz,plaintiff_growth_head,redshift,table_export,true,true,true,false,false,Cohort-level streaming engagement metrics used by plaintiff's expert.
+C-2020-1450,DX-077,us,Marco Ruiz,defendant_research_lead,github,source_code,true,true,true,false,false,Annotated notebook showing independent development of recommendation model variant.
+C-2019-0113,PX-017,us,Nikhil Rao,plaintiff_pm,snowflake,table_export,true,true,false,false,false,Onboarding funnel metrics used to calibrate scoring model.
+C-2019-0113,DX-022,them,Kara Mills,defendant_pm,gmail,email,false,true,false,false,false,Email pointing to publicly documented onboarding scoring best practices.
+C-2019-0666,PX-061,us,Sonia Patel,plaintiff_adops_lead,bigquery,table_export,true,true,false,false,true,Sample of auction logs with gaps due to retention policy.
+C-2019-0666,DX-073,them,Leo Brooks,defendant_data_scientist,github,notebook,true,true,true,false,false,Analysis notebook arguing plaintiff's lift claims are overstated.
+C-2020-0044,PX-025,us,Dr. Aaron Price,plaintiff_data_science_lead,postgres,table_export,true,true,false,false,false,Readmission scorecards with feature weights for top conditions.
+C-2020-0599,PX-014,us,Emily Kovacs,plaintiff_quant_lead,parquet,table_export,true,true,false,false,true,Tick data snapshot missing several days cited in the complaint.
+C-2021-0442,PX-039,us,Lara Jensen,plaintiff_product_lead,sharepoint,presentation,false,true,false,false,false,Slide deck describing role recommendation engine at a high level.
+C-2022-0407,PX-033,us,Dr. Aisha Rahman,plaintiff_data_science_lead,sharepoint,notebook,true,true,false,false,false,Notebook mapping care-gap model inputs to public Medicare fields.
+C-2023-0310,PX-028,us,Dr. Matteo Ricci,plaintiff_process_engineer,sharepoint,spreadsheet,true,true,false,false,true,Furnace calibration log export missing early recipe variants.

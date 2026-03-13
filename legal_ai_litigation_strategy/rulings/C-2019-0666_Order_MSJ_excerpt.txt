@@ -1,0 +1,5 @@
+Defendant's motion for summary judgment is GRANTED.
+
+Throughout this litigation, Plaintiff has insisted that its "ad engine as a whole" is the trade secret. It has not narrowed its theory to specific models, features, or parameter sets that could be meaningfully cabined for a jury. Vertex teaches that such amorphous product-level claims are insufficient as a matter of law.
+
+Moreover, PX-061 and the testimony of Plaintiff's ad operations lead establish that Plaintiff allowed auction logs for key periods to be overwritten pursuant to a shortened retention policy. That destruction of contemporaneous data fatally impairs any attempt to reconstruct how strategies evolved over time or to attribute any differences in performance to the alleged secrets rather than to ordinary experimentation.

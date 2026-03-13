@@ -1,0 +1,21 @@
+CASE_ID: C-2017-0209
+MOTION_TYPE: MSJ
+SIDE: defendant
+
+INTRODUCTION
+
+Defendant moves for summary judgment on Plaintiff's claims relating to alleged biomarker panel trade secrets. Plaintiff cannot point to any specific combination of biomarkers or threshold values that is not disclosed in published studies or regulatory filings, and its evolving definitions mirror the failures in Vertex.
+
+STATEMENT OF FACTS
+
+Throughout discovery, Plaintiff alternated between claiming that its "overall biomarker strategy" and certain panels submitted to regulators were the trade secrets. Yet the panels at issue are described in clinical trial registrations, and follow standard oncology practice. Plaintiff has not identified any non-public assay method, panel composition, or decision rule that differentiates its work from what the scientific community already knows.
+
+ARGUMENT
+
+I. PLAINTIFF'S ASSERTED SECRETS ARE COEXTENSIVE WITH PUBLICLY DISCLOSED INFORMATION.
+
+Where a plaintiff's alleged secret lies entirely within the four corners of public filings and publications, courts routinely grant summary judgment. Here, every biomarker in Plaintiff's panels appears in public trial protocols, and the inclusion/exclusion criteria are lifted from widely cited guidelines.
+
+II. WITHOUT A CLEAR BOUNDARY, NO JURY COULD DECIDE THIS CASE.
+
+Plaintiff's "strategy" framing suffers from the same overbreadth as the software and manufacturing cases in Vertex and its progeny. It asks the Court to treat an entire development philosophy as the secret, without ever reducing that philosophy to concrete, non-public details that a jury could evaluate.

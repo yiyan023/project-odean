@@ -1,0 +1,5 @@
+Plaintiff's motion for a preliminary injunction is GRANTED IN PART and DENIED IN PART.
+
+Plaintiff has shown a likelihood of success and irreparable harm with respect to a subset of manufacturing documents that are identified with reasonable particularity in the record. As to those narrowly defined process-control materials, the Court will enjoin Defendant from further use pending final resolution of this action.
+
+Plaintiff's broader request, which effectively seeks to bar Defendant from operating its fab under any conditions, is denied. The law protects specific, proven trade secrets, not generalized claims to "the way we run the fab." The injunction entered today reflects that distinction.

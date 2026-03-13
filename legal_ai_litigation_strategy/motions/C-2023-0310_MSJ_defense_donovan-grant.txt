@@ -1,0 +1,21 @@
+CASE_ID: C-2023-0310
+MOTION_TYPE: MSJ
+SIDE: defendant
+
+INTRODUCTION
+
+Defendant moves for summary judgment, or in the alternative for narrowing relief, on Plaintiff's claims concerning semiconductor yield recipes. Plaintiff defines its secrets as entire "families" of recipes but concedes that it purged calibration logs for earlier variants. That missing data, combined with the breadth of Plaintiff's definitions, forecloses any triable claim beyond a limited subset of later recipes.
+
+STATEMENT OF FACTS
+
+Plaintiff's process engineer, Matteo Ricci, identified PX-028 as a "furnace calibration export" that is supposed to capture the evolution of the recipes. (Ricci Dep. 72:1–74:19.) He admitted that "some older variants were purged" in a system migration and that he cannot "show the jury exactly how the recipes evolved over time." Id. Plaintiff nevertheless seeks to treat all iterations of its yield-enhancement work as a single undifferentiated trade secret.
+
+ARGUMENT
+
+I. PLAINTIFF'S SWEEPING DEFINITION IS INCONSISTENT WITH VERTEX.
+
+Under Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019), Plaintiffs must identify concrete information—specific recipes, parameter sets, or process windows—not vague "families" of approaches. Here, Plaintiff has failed to draw any principled line between public process knowledge and the confidential margins of its recipes.
+
+II. SPOLIATION OF CALIBRATION LOGS WARRANTS NARROWING RELIEF UNDER HELIOS.
+
+PX-028 confirms that key historical data was purged. As in Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010), the appropriate remedy is an adverse inference and narrowing of the case. At most, Plaintiff should be permitted to proceed on the two later recipe sets for which some calibration history survives; the rest should be resolved as a matter of law.
