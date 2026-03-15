@@ -1,0 +1,265 @@
+source_case_id,target_case_citation,target_case_id,citation_context,citing_document_type,citing_side,precedent_issue,treatment,strength_indicator
+C-2020-0312,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,motion,plaintiff_motion,us,inevitable_disclosure,distinguished,1
+C-2020-0312,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,ruling,court_order,judge,inevitable_disclosure,limited,2
+C-2020-0312,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,motion,defense_motion,them,trade_secret_identification,followed,3
+C-2020-0312,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,ruling,court_order,judge,trade_secret_identification,followed,3
+C-2020-0312,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)","HC-TS-2010-HEL",motion,defense_motion,them,spoliation,followed,2
+C-2019-1187,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,motion,defense_motion,them,trade_secret_identification,followed,2
+C-2019-1187,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)","HC-TS-2010-HEL",motion,defense_motion,them,spoliation,followed,3
+C-2019-1187,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,ruling,court_order,judge,reasonable_measures,followed,1
+C-2021-0904,"Vertex Systems, Inc. v. Nova Tech Corp., 945 F.3d 102 (9th Cir. 2019)",,motion,defense_motion,them,trade_secret_identification,followed,2
+C-2021-0904,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,ruling,court_order,judge,trade_secret_identification,distinguished,2
+C-2021-0904,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,motion,plaintiff_motion,them,reasonable_measures,followed,2
+C-2018-0220,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,motion,plaintiff_motion,us,inevitable_disclosure,followed,1
+C-2018-0220,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,motion,defense_motion,them,trade_secret_identification,followed,2
+C-2019-2044,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,motion,plaintiff_motion,us,reasonable_measures,followed,2
+C-2019-2044,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)","HC-TS-2010-HEL",ruling,court_order,judge,spoliation,rejected,1
+C-2020-1450,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,motion,plaintiff_motion,them,inevitable_disclosure,followed,2
+C-2022-0678,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,motion,defense_motion,them,trade_secret_identification,followed,2
+C-2022-0678,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,ruling,court_order,judge,reasonable_measures,followed,2
+C-2019-2044,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,ruling,court_order,judge,reasonable_measures,followed,2
+C-2020-1450,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,motion,defense_motion,them,trade_secret_identification,distinguished,1
+C-2019-0113,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,ruling,court_order,judge,trade_secret_identification,followed,2
+C-2019-0666,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,motion,defense_motion,them,trade_secret_identification,followed,3
+C-2019-0666,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)","HC-TS-2010-HEL",ruling,court_order,judge,spoliation,followed,3
+C-2020-0044,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,motion,plaintiff_motion,us,reasonable_measures,followed,1
+C-2020-0599,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,motion,plaintiff_motion,us,inevitable_disclosure,rejected,1
+C-2020-0599,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,ruling,court_order,judge,trade_secret_identification,followed,2
+C-2021-0442,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,motion,defense_motion,them,trade_secret_identification,followed,3
+C-2022-0407,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,motion,defense_motion,them,reasonable_measures,followed,2
+C-2023-0310,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,motion,defense_motion,them,trade_secret_identification,followed,3
+C-2023-0310,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)","HC-TS-2010-HEL",motion,defense_motion,them,spoliation,followed,2
+C-2014-1000,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,motion,plaintiff_motion,us,inevitable_disclosure,followed,1
+C-2014-1004,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,motion,defense_motion,them,spoliation,distinguished,3
+C-2014-1005,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,ruling,court_order,judge,trade_secret_identification,distinguished,3
+C-2014-1008,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,ruling,court_order,judge,inevitable_disclosure,distinguished,2
+C-2014-1009,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,motion,plaintiff_motion,us,reasonable_measures,followed,1
+C-2014-1010,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,motion,defense_motion,them,spoliation,followed,2
+C-2014-1010,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,motion,defense_motion,them,trade_secret_identification,limited,3
+C-2014-1011,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,ruling,court_order,judge,reasonable_measures,limited,2
+C-2014-1011,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,ruling,court_order,judge,spoliation,distinguished,1
+C-2014-1012,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,motion,plaintiff_motion,us,spoliation,distinguished,3
+C-2014-1013,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,motion,defense_motion,them,reasonable_measures,rejected,2
+C-2014-1014,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,ruling,court_order,judge,reasonable_measures,distinguished,2
+C-2014-1014,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,ruling,court_order,judge,inevitable_disclosure,rejected,2
+C-2014-1017,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,ruling,court_order,judge,reasonable_measures,distinguished,2
+C-2014-1017,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,ruling,court_order,judge,inevitable_disclosure,followed,2
+C-2014-1018,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,motion,plaintiff_motion,us,inevitable_disclosure,followed,3
+C-2014-1018,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,motion,plaintiff_motion,us,trade_secret_identification,rejected,2
+C-2014-1019,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,motion,defense_motion,them,inevitable_disclosure,rejected,1
+C-2015-1003,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,ruling,court_order,judge,spoliation,followed,3
+C-2015-1003,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,ruling,court_order,judge,spoliation,distinguished,2
+C-2015-1004,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,motion,plaintiff_motion,us,trade_secret_identification,followed,2
+C-2015-1004,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,motion,plaintiff_motion,us,spoliation,limited,3
+C-2015-1005,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,motion,defense_motion,them,reasonable_measures,limited,3
+C-2015-1007,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,motion,plaintiff_motion,us,inevitable_disclosure,limited,2
+C-2015-1007,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,motion,plaintiff_motion,us,inevitable_disclosure,rejected,1
+C-2015-1008,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,motion,defense_motion,them,spoliation,limited,2
+C-2015-1010,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,motion,plaintiff_motion,us,inevitable_disclosure,distinguished,2
+C-2015-1010,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,motion,plaintiff_motion,us,reasonable_measures,rejected,1
+C-2015-1012,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,ruling,court_order,judge,trade_secret_identification,rejected,1
+C-2015-1012,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,ruling,court_order,judge,reasonable_measures,rejected,3
+C-2015-1013,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,motion,plaintiff_motion,us,spoliation,rejected,3
+C-2015-1015,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,ruling,court_order,judge,trade_secret_identification,limited,1
+C-2015-1016,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,motion,plaintiff_motion,us,reasonable_measures,limited,2
+C-2015-1016,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,motion,plaintiff_motion,us,spoliation,distinguished,1
+C-2015-1017,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,motion,defense_motion,them,trade_secret_identification,followed,1
+C-2015-1018,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,ruling,court_order,judge,spoliation,distinguished,1
+C-2015-1019,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,motion,plaintiff_motion,us,spoliation,limited,1
+C-2016-1000,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,motion,defense_motion,them,reasonable_measures,rejected,1
+C-2016-1000,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,motion,defense_motion,them,spoliation,rejected,3
+C-2016-1001,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,ruling,court_order,judge,spoliation,limited,3
+C-2016-1001,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,ruling,court_order,judge,reasonable_measures,followed,2
+C-2016-1004,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,ruling,court_order,judge,trade_secret_identification,limited,3
+C-2016-1004,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,ruling,court_order,judge,spoliation,distinguished,3
+C-2016-1005,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,motion,plaintiff_motion,us,trade_secret_identification,limited,3
+C-2016-1005,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,motion,plaintiff_motion,us,reasonable_measures,distinguished,1
+C-2016-1008,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,motion,plaintiff_motion,us,spoliation,rejected,1
+C-2016-1008,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,motion,plaintiff_motion,us,inevitable_disclosure,limited,1
+C-2016-1009,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,motion,defense_motion,them,reasonable_measures,followed,2
+C-2016-1010,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,ruling,court_order,judge,spoliation,rejected,2
+C-2016-1011,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,motion,plaintiff_motion,us,reasonable_measures,followed,2
+C-2016-1011,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,motion,plaintiff_motion,us,reasonable_measures,rejected,1
+C-2016-1013,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,ruling,court_order,judge,spoliation,limited,3
+C-2016-1014,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,motion,plaintiff_motion,us,reasonable_measures,limited,3
+C-2016-1014,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,motion,plaintiff_motion,us,spoliation,rejected,3
+C-2016-1016,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,ruling,court_order,judge,spoliation,limited,1
+C-2016-1017,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,motion,plaintiff_motion,us,trade_secret_identification,rejected,1
+C-2016-1017,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,motion,plaintiff_motion,us,reasonable_measures,distinguished,2
+C-2017-1000,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,motion,plaintiff_motion,us,reasonable_measures,followed,3
+C-2017-1001,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,motion,defense_motion,them,trade_secret_identification,limited,3
+C-2017-1001,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,motion,defense_motion,them,trade_secret_identification,rejected,1
+C-2017-1002,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,ruling,court_order,judge,spoliation,followed,3
+C-2017-1002,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,ruling,court_order,judge,spoliation,rejected,1
+C-2017-1003,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,motion,plaintiff_motion,us,trade_secret_identification,followed,3
+C-2017-1003,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,motion,plaintiff_motion,us,reasonable_measures,followed,2
+C-2017-1004,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,motion,defense_motion,them,spoliation,distinguished,1
+C-2017-1004,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,motion,defense_motion,them,inevitable_disclosure,rejected,3
+C-2017-1006,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,motion,plaintiff_motion,us,trade_secret_identification,limited,3
+C-2017-1006,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,motion,plaintiff_motion,us,trade_secret_identification,limited,3
+C-2017-1008,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,ruling,court_order,judge,spoliation,followed,1
+C-2017-1009,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,motion,plaintiff_motion,us,spoliation,rejected,2
+C-2017-1011,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,ruling,court_order,judge,inevitable_disclosure,followed,1
+C-2017-1012,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,motion,plaintiff_motion,us,inevitable_disclosure,distinguished,1
+C-2017-1012,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,motion,plaintiff_motion,us,trade_secret_identification,limited,2
+C-2017-1013,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,motion,defense_motion,them,spoliation,followed,1
+C-2017-1013,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,motion,defense_motion,them,trade_secret_identification,rejected,1
+C-2017-1014,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,ruling,court_order,judge,trade_secret_identification,distinguished,3
+C-2017-1014,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,ruling,court_order,judge,trade_secret_identification,limited,3
+C-2017-1015,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,motion,plaintiff_motion,us,inevitable_disclosure,limited,3
+C-2017-1015,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,motion,plaintiff_motion,us,trade_secret_identification,rejected,2
+C-2017-1016,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,motion,defense_motion,them,reasonable_measures,limited,1
+C-2017-1016,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,motion,defense_motion,them,inevitable_disclosure,limited,1
+C-2017-1017,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,ruling,court_order,judge,spoliation,followed,1
+C-2017-1018,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,motion,plaintiff_motion,us,trade_secret_identification,followed,1
+C-2017-1019,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,motion,defense_motion,them,inevitable_disclosure,rejected,3
+C-2018-1001,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,motion,plaintiff_motion,us,trade_secret_identification,rejected,1
+C-2018-1001,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,motion,plaintiff_motion,us,inevitable_disclosure,followed,1
+C-2018-1002,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,motion,defense_motion,them,reasonable_measures,limited,3
+C-2018-1003,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,ruling,court_order,judge,reasonable_measures,limited,2
+C-2018-1003,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,ruling,court_order,judge,spoliation,followed,1
+C-2018-1004,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,motion,plaintiff_motion,us,inevitable_disclosure,rejected,1
+C-2018-1005,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,motion,defense_motion,them,spoliation,followed,2
+C-2018-1006,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,ruling,court_order,judge,trade_secret_identification,rejected,2
+C-2018-1007,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,motion,plaintiff_motion,us,trade_secret_identification,rejected,3
+C-2018-1008,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,motion,defense_motion,them,inevitable_disclosure,distinguished,3
+C-2018-1008,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,motion,defense_motion,them,inevitable_disclosure,distinguished,1
+C-2018-1009,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,ruling,court_order,judge,trade_secret_identification,limited,2
+C-2018-1009,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,ruling,court_order,judge,trade_secret_identification,rejected,3
+C-2018-1010,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,motion,plaintiff_motion,us,inevitable_disclosure,followed,2
+C-2018-1010,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,motion,plaintiff_motion,us,inevitable_disclosure,followed,1
+C-2018-1011,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,motion,defense_motion,them,inevitable_disclosure,limited,1
+C-2018-1011,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,motion,defense_motion,them,trade_secret_identification,limited,1
+C-2018-1012,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,ruling,court_order,judge,inevitable_disclosure,distinguished,1
+C-2018-1012,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,ruling,court_order,judge,inevitable_disclosure,distinguished,1
+C-2018-1014,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,motion,defense_motion,them,inevitable_disclosure,distinguished,2
+C-2018-1014,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,motion,defense_motion,them,reasonable_measures,followed,3
+C-2018-1015,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,ruling,court_order,judge,reasonable_measures,rejected,1
+C-2018-1016,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,motion,plaintiff_motion,us,trade_secret_identification,limited,1
+C-2018-1019,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,motion,plaintiff_motion,us,inevitable_disclosure,rejected,2
+C-2019-1001,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,ruling,court_order,judge,reasonable_measures,distinguished,2
+C-2019-1001,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,ruling,court_order,judge,reasonable_measures,rejected,1
+C-2019-1002,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,motion,plaintiff_motion,us,spoliation,followed,2
+C-2019-1003,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,motion,defense_motion,them,inevitable_disclosure,rejected,3
+C-2019-1003,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,motion,defense_motion,them,inevitable_disclosure,limited,2
+C-2019-1004,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,ruling,court_order,judge,reasonable_measures,limited,3
+C-2019-1004,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,ruling,court_order,judge,reasonable_measures,rejected,2
+C-2019-1005,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,motion,plaintiff_motion,us,trade_secret_identification,followed,2
+C-2019-1005,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,motion,plaintiff_motion,us,trade_secret_identification,distinguished,2
+C-2019-1006,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,motion,defense_motion,them,reasonable_measures,limited,2
+C-2019-1007,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,ruling,court_order,judge,trade_secret_identification,followed,1
+C-2019-1009,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,motion,defense_motion,them,reasonable_measures,distinguished,3
+C-2019-1009,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,motion,defense_motion,them,reasonable_measures,limited,1
+C-2019-1010,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,ruling,court_order,judge,reasonable_measures,followed,1
+C-2019-1010,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,ruling,court_order,judge,inevitable_disclosure,distinguished,3
+C-2019-1012,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,motion,defense_motion,them,trade_secret_identification,distinguished,2
+C-2019-1012,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,motion,defense_motion,them,spoliation,distinguished,3
+C-2019-1013,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,ruling,court_order,judge,trade_secret_identification,rejected,3
+C-2019-1013,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,ruling,court_order,judge,reasonable_measures,rejected,2
+C-2019-1015,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,motion,defense_motion,them,spoliation,distinguished,3
+C-2019-1015,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,motion,defense_motion,them,reasonable_measures,distinguished,1
+C-2019-1016,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,ruling,court_order,judge,inevitable_disclosure,distinguished,2
+C-2019-1016,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,ruling,court_order,judge,spoliation,distinguished,2
+C-2019-1018,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,motion,defense_motion,them,inevitable_disclosure,followed,2
+C-2019-1018,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,motion,defense_motion,them,spoliation,distinguished,1
+C-2019-1019,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,ruling,court_order,judge,reasonable_measures,limited,2
+C-2020-1000,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,motion,plaintiff_motion,us,spoliation,limited,3
+C-2020-1000,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,motion,plaintiff_motion,us,spoliation,rejected,3
+C-2020-1001,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,motion,defense_motion,them,spoliation,rejected,1
+C-2020-1002,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,ruling,court_order,judge,inevitable_disclosure,rejected,3
+C-2020-1002,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,ruling,court_order,judge,inevitable_disclosure,limited,2
+C-2020-1003,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,motion,plaintiff_motion,us,reasonable_measures,limited,3
+C-2020-1003,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,motion,plaintiff_motion,us,spoliation,distinguished,1
+C-2020-1005,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,ruling,court_order,judge,trade_secret_identification,followed,1
+C-2020-1007,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,motion,defense_motion,them,spoliation,limited,3
+C-2020-1008,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,ruling,court_order,judge,spoliation,distinguished,2
+C-2020-1008,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,ruling,court_order,judge,inevitable_disclosure,distinguished,1
+C-2020-1009,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,motion,plaintiff_motion,us,spoliation,rejected,3
+C-2020-1009,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,motion,plaintiff_motion,us,trade_secret_identification,limited,1
+C-2020-1010,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,motion,defense_motion,them,reasonable_measures,rejected,1
+C-2020-1010,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,motion,defense_motion,them,reasonable_measures,limited,1
+C-2020-1011,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,ruling,court_order,judge,inevitable_disclosure,limited,1
+C-2020-1012,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,motion,plaintiff_motion,us,trade_secret_identification,rejected,1
+C-2020-1014,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,ruling,court_order,judge,reasonable_measures,limited,3
+C-2020-1019,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,motion,defense_motion,them,inevitable_disclosure,followed,1
+C-2021-1000,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,ruling,court_order,judge,inevitable_disclosure,followed,3
+C-2021-1000,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,ruling,court_order,judge,spoliation,followed,2
+C-2021-1003,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,ruling,court_order,judge,inevitable_disclosure,distinguished,3
+C-2021-1004,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,motion,plaintiff_motion,us,spoliation,followed,1
+C-2021-1005,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,motion,defense_motion,them,trade_secret_identification,distinguished,2
+C-2021-1006,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,ruling,court_order,judge,inevitable_disclosure,followed,3
+C-2021-1006,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,ruling,court_order,judge,reasonable_measures,rejected,3
+C-2021-1007,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,motion,plaintiff_motion,us,inevitable_disclosure,followed,3
+C-2021-1010,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,motion,plaintiff_motion,us,inevitable_disclosure,distinguished,2
+C-2021-1010,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,motion,plaintiff_motion,us,trade_secret_identification,followed,1
+C-2021-1011,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,motion,defense_motion,them,inevitable_disclosure,distinguished,1
+C-2021-1013,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,motion,plaintiff_motion,us,trade_secret_identification,limited,1
+C-2021-1014,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,motion,defense_motion,them,spoliation,limited,3
+C-2021-1014,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,motion,defense_motion,them,reasonable_measures,distinguished,1
+C-2021-1016,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,motion,plaintiff_motion,us,reasonable_measures,limited,2
+C-2021-1017,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,motion,defense_motion,them,trade_secret_identification,rejected,3
+C-2021-1017,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,motion,defense_motion,them,spoliation,rejected,1
+C-2022-1001,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,ruling,court_order,judge,inevitable_disclosure,followed,2
+C-2022-1002,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,motion,plaintiff_motion,us,inevitable_disclosure,limited,1
+C-2022-1003,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,motion,defense_motion,them,spoliation,limited,3
+C-2022-1003,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,motion,defense_motion,them,reasonable_measures,followed,2
+C-2022-1004,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,ruling,court_order,judge,spoliation,distinguished,1
+C-2022-1004,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,ruling,court_order,judge,spoliation,rejected,3
+C-2022-1007,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,ruling,court_order,judge,reasonable_measures,followed,2
+C-2022-1008,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,motion,plaintiff_motion,us,spoliation,rejected,2
+C-2022-1008,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,motion,plaintiff_motion,us,reasonable_measures,limited,2
+C-2022-1009,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,motion,defense_motion,them,reasonable_measures,rejected,1
+C-2022-1011,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,motion,plaintiff_motion,us,reasonable_measures,followed,2
+C-2022-1011,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,motion,plaintiff_motion,us,trade_secret_identification,limited,3
+C-2022-1012,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,motion,defense_motion,them,spoliation,followed,3
+C-2022-1012,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,motion,defense_motion,them,spoliation,followed,1
+C-2022-1015,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,motion,defense_motion,them,trade_secret_identification,followed,1
+C-2022-1018,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,motion,defense_motion,them,trade_secret_identification,rejected,3
+C-2022-1018,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,motion,defense_motion,them,spoliation,limited,1
+C-2022-1019,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,ruling,court_order,judge,reasonable_measures,distinguished,2
+C-2022-1019,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,ruling,court_order,judge,inevitable_disclosure,rejected,1
+C-2023-1000,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,motion,plaintiff_motion,us,reasonable_measures,rejected,1
+C-2023-1000,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,motion,plaintiff_motion,us,inevitable_disclosure,rejected,1
+C-2023-1001,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,motion,defense_motion,them,trade_secret_identification,limited,3
+C-2023-1001,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,motion,defense_motion,them,reasonable_measures,limited,1
+C-2023-1003,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,motion,plaintiff_motion,us,reasonable_measures,rejected,3
+C-2023-1004,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,motion,defense_motion,them,spoliation,limited,2
+C-2023-1005,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,ruling,court_order,judge,reasonable_measures,followed,3
+C-2023-1006,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,motion,plaintiff_motion,us,inevitable_disclosure,followed,2
+C-2023-1006,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,motion,plaintiff_motion,us,reasonable_measures,limited,1
+C-2023-1007,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,motion,defense_motion,them,inevitable_disclosure,limited,3
+C-2023-1007,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,motion,defense_motion,them,inevitable_disclosure,rejected,2
+C-2023-1009,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,motion,plaintiff_motion,us,spoliation,followed,3
+C-2023-1012,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,motion,plaintiff_motion,us,reasonable_measures,limited,3
+C-2023-1013,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,motion,defense_motion,them,spoliation,followed,1
+C-2023-1014,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,ruling,court_order,judge,inevitable_disclosure,followed,1
+C-2023-1015,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,motion,plaintiff_motion,us,spoliation,distinguished,1
+C-2023-1015,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,motion,plaintiff_motion,us,reasonable_measures,limited,1
+C-2023-1016,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,motion,defense_motion,them,inevitable_disclosure,followed,1
+C-2023-1019,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,motion,defense_motion,them,reasonable_measures,limited,1
+C-2024-1000,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,ruling,court_order,judge,reasonable_measures,followed,3
+C-2024-1001,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,motion,plaintiff_motion,us,trade_secret_identification,rejected,2
+C-2024-1001,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,motion,plaintiff_motion,us,trade_secret_identification,distinguished,2
+C-2024-1002,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,motion,defense_motion,them,spoliation,rejected,1
+C-2024-1002,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,motion,defense_motion,them,reasonable_measures,rejected,1
+C-2024-1003,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,ruling,court_order,judge,spoliation,rejected,1
+C-2024-1003,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,ruling,court_order,judge,reasonable_measures,rejected,1
+C-2024-1005,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,motion,defense_motion,them,reasonable_measures,followed,1
+C-2024-1005,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,motion,defense_motion,them,inevitable_disclosure,rejected,3
+C-2024-1007,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,motion,plaintiff_motion,us,spoliation,limited,1
+C-2024-1007,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,motion,plaintiff_motion,us,spoliation,followed,3
+C-2024-1008,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,motion,defense_motion,them,reasonable_measures,distinguished,3
+C-2024-1008,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,motion,defense_motion,them,spoliation,distinguished,1
+C-2024-1009,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,ruling,court_order,judge,inevitable_disclosure,limited,3
+C-2024-1011,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,motion,defense_motion,them,trade_secret_identification,followed,2
+C-2024-1011,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,motion,defense_motion,them,trade_secret_identification,distinguished,3
+C-2024-1012,"Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010)",HC-TS-2010-HEL,ruling,court_order,judge,spoliation,distinguished,3
+C-2024-1012,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,ruling,court_order,judge,inevitable_disclosure,rejected,2
+C-2024-1013,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,motion,plaintiff_motion,us,inevitable_disclosure,distinguished,3
+C-2024-1015,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,ruling,court_order,judge,trade_secret_identification,distinguished,2
+C-2024-1016,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,motion,plaintiff_motion,us,reasonable_measures,followed,2
+C-2024-1016,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,motion,plaintiff_motion,us,inevitable_disclosure,rejected,1
+C-2024-1017,"Quantum Metrics v. Dynacore, 611 F.3d 857 (3d Cir. 2012)",,motion,defense_motion,them,reasonable_measures,distinguished,1
+C-2024-1017,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,motion,defense_motion,them,inevitable_disclosure,followed,2
+C-2024-1018,"Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019)",,ruling,court_order,judge,trade_secret_identification,rejected,1
+C-2024-1018,"Acme Analytics v. Orion Data, 812 F.3d 413 (9th Cir. 2016)",,ruling,court_order,judge,inevitable_disclosure,rejected,3

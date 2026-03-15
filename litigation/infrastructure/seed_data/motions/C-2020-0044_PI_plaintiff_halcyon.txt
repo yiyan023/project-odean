@@ -1,0 +1,21 @@
+CASE_ID: C-2020-0044
+MOTION_TYPE: PI
+SIDE: plaintiff
+
+INTRODUCTION
+
+Plaintiff moves for a preliminary injunction to prevent Defendant from deploying a copycat readmission risk product in the same hospital systems where Plaintiff's scores are already in use. If Defendant is allowed to proceed, Plaintiff will suffer irreparable harm to its reputation and the trust it has built with clinicians.
+
+STATEMENT OF FACTS
+
+Plaintiff developed its readmission risk scores over a period of years, investing heavily in data science and clinical validation. As explained in PX-025 and the accompanying declaration of Dr. Aaron Price, the core secrets are the feature weights and thresholds used to compute scores for specific conditions. Those weights are not disclosed in any marketing materials, are stored in a locked configuration service, and can only be accessed by a small group of engineers and clinical leads.
+
+ARGUMENT
+
+I. PLAINTIFF IS LIKELY TO SUCCEED ON THE MERITS.
+
+PX-025 and Dr. Price's testimony show that the model uses a carefully tuned combination of diagnosis codes, prior utilization, lab values, and social determinants. Those exact combinations and weights are not derivable from public Medicare data alone. Internal emails produced by Defendant show its team attempting to "replicate Price's score" using the same hospital deployment notes.
+
+II. THE EQUITIES AND PUBLIC INTEREST FAVOR AN INJUNCTION.
+
+Hospitals rely on Plaintiff's scores to allocate scarce care management resources. If Defendant launches a confusingly similar score based on misappropriated parameters, clinicians will not know which tool to trust. Monetary relief cannot adequately remedy the downstream clinical and reputational harms that would result.

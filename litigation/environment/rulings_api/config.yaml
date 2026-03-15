@@ -1,0 +1,5 @@
+# Rulings API — override via SEED_DATA_DIR in production
+server:
+  port: 5000
+data:
+  seed_dir: "/app/seed_data"

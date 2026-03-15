@@ -1,0 +1,21 @@
+CASE_ID: C-2022-0678
+MOTION_TYPE: PI
+SIDE: plaintiff
+
+INTRODUCTION
+
+Plaintiff moves for a preliminary injunction to prevent Defendant from using Plaintiff's confidential clinical trial protocols and enrollment criteria in its competing drug program. Without injunctive relief, Defendant will be able to shortcut years of trial-and-error and seize first-mover advantage built on Plaintiff's work.
+
+STATEMENT OF FACTS
+
+As detailed in PX-030 and Dr. Keller's declaration, Plaintiff's trade secrets include specific inclusion/exclusion criteria, stratification schemes, and adaptive randomization rules for its Phase II studies. Those design choices, which are not fully disclosed in registry entries or publications, were developed through extensive modeling and consultation with key opinion leaders.
+
+ARGUMENT
+
+I. PLAINTIFF HAS SHOWN A LIKELIHOOD OF SUCCESS ON THE MERITS.
+
+Defendant's internal slide decks track Plaintiff's protocol structure and enrollment targets nearly line by line. Emails produced in DX-011 show Defendant's business development team pressing for access to "full protocols, not just synopses," and referencing Plaintiff's de-identified data as a benchmark for its own program.
+
+II. THE BALANCE OF EQUITIES AND PUBLIC INTEREST FAVOR AN INJUNCTION.
+
+Allowing Defendant to proceed on misappropriated designs would undermine incentives to invest in scientifically rigorous trial designs. An injunction limited to protocols and criteria that mirror PX-030 will preserve fair competition without delaying patient access to innovative therapies that are independently developed.

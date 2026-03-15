@@ -1,0 +1,5 @@
+Defendant's motion for summary judgment is GRANTED IN PART and DENIED IN PART.
+
+To the extent Plaintiff claims its entire onboarding funnel and associated analytics are trade secrets, the motion is granted. Those broad theories sweep in practices that Plaintiff has described in public forums and that are commonplace in the industry. Under Vertex, such unbounded formulations cannot proceed.
+
+However, Plaintiff has, in the course of this litigation, identified a narrower set of alleged secrets: the specific feature weights and thresholds contained in sealed Appendix A to PX-017. On the present record, the Court cannot say as a matter of law that those weights and thresholds are either publicly known or non-distinctive. Defendant's motion is therefore denied as to that limited theory, which may proceed to trial.

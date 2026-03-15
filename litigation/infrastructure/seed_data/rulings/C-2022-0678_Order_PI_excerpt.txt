@@ -1,0 +1,5 @@
+Plaintiff's motion for a preliminary injunction is GRANTED IN PART and DENIED IN PART.
+
+Plaintiff has identified specific clinical trial protocols and enrollment criteria, reflected in PX-030, as the trade secrets at issue. On this limited record, Plaintiff has made a sufficient showing that those materials contain non-public design choices and that Defendant had access to them through business development discussions.
+
+The injunction the Court enters today is narrowly tailored: Defendant is enjoined from using the particular protocol designs and enrollment schemes that mirror PX-030. Plaintiff's broader request to halt Defendant's competing program in its entirety is denied for lack of a sufficient showing that all aspects of that program depend on the alleged secrets.

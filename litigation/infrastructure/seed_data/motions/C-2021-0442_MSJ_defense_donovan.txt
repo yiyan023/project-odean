@@ -1,0 +1,21 @@
+CASE_ID: C-2021-0442
+MOTION_TYPE: MSJ
+SIDE: defendant
+
+INTRODUCTION
+
+Defendant moves for summary judgment on Plaintiff's claim that its role recommendation engine is a trade secret. Plaintiff's descriptions of its "AI talent engine" mirror public marketing copy and industry conference presentations, and the record contains no evidence of unique, non-public features beyond those disclosures.
+
+STATEMENT OF FACTS
+
+Plaintiff's product lead, Lara Jensen, relies on PX-039—a slide deck originally prepared for a customer summit—to explain the alleged trade secrets. PX-039 describes using standard signals such as tenure, performance ratings, skills tags, and internal mobility histories to suggest next roles. Those concepts are echoed in Plaintiff's public blog posts and case studies, which describe "AI-powered career paths" in similar terms.
+
+ARGUMENT
+
+I. PLAINTIFF HAS FAILED TO IDENTIFY ANY NON-PUBLIC MECHANISM ENTITLED TO PROTECTION.
+
+Vertex and related cases require more than buzzwords. Plaintiff has not produced detailed model documentation, feature lists, or weightings that differ from what it has voluntarily shared with customers and prospects. At most, it has shown that it, like many others, uses machine learning to suggest internal job moves.
+
+II. THERE IS NO EVIDENCE OF USE OR DISCLOSURE BY DEFENDANT.
+
+Defendant's internal HR analytics tools predate any access to Plaintiff's materials and rely on different data sources and labels. Plaintiff has not identified a single overlapping feature representation or architecture element that would allow a reasonable jury to infer copying rather than independent development.

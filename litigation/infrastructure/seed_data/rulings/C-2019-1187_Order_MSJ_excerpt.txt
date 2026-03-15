@@ -1,0 +1,7 @@
+Defendant's motion for summary judgment is GRANTED.
+
+Plaintiff has failed, after ample discovery, to identify its alleged trade secrets with the specificity the law demands. Its corporate designee, Rao, testified that the "way we run the fab" is the secret, and conceded that no single document contains the claimed information. That testimony, combined with evolving interrogatory responses, leaves the Court with a moving target.
+
+Plaintiff's spoliation of earlier revisions of PX-010, the process-control spreadsheet, further undermines its case. The record supports an inference that the missing data would not have aided plaintiff, and there is no reliable way to reconstruct the relevant parameters with precision.
+
+Under Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019), and related precedents, this combination of vague definitions and destroyed evidence warrants judgment as a matter of law.

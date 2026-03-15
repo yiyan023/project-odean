@@ -1,0 +1,7 @@
+CASE_ID: C-2022-1010
+MOTION_TYPE: PI
+SIDE: plaintiff
+
+INTRODUCTION
+
+Plaintiff moves for a preliminary injunction. Irreparable harm is likely absent relief given defendant's use of confidential materials.

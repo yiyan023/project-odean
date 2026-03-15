@@ -1,0 +1,7 @@
+This matter comes before the Court on Defendant's motion for summary judgment. For the reasons set forth below, the motion is GRANTED IN PART and DENIED IN PART.
+
+Plaintiff has repeatedly characterized its trade secrets as its "platform as a whole." Its Rule 30(b)(6) designee, Chen, could not identify any discrete files, repositories, or design documents that embody the alleged secrets. This failure to articulate the claimed secrets with reasonable particularity is inconsistent with Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019), and similar authorities.
+
+Moreover, plaintiff did not preserve certain pre-2018 source-code repositories and produced the PX-031 "security roadmap" only after Defendant highlighted gaps in its access-control evidence. Under Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010), the Court imposes an adverse inference that the missing materials would not have supported plaintiff's theory.
+
+Accordingly, the Court grants summary judgment as to alleged misappropriation of any versions of the platform predating 2018. The motion is otherwise denied.

@@ -1,0 +1,21 @@
+CASE_ID: C-2018-0301
+MOTION_TYPE: MSJ
+SIDE: defendant
+
+INTRODUCTION
+
+Defendant moves for summary judgment on Plaintiff's claims regarding lookalike modeling features. Plaintiff alleges that its feature sets and training procedures are trade secrets, but discovery shows that they track common patterns described in public ad-tech literature and vendor documentation.
+
+STATEMENT OF FACTS
+
+Plaintiff claims that the way it encodes seed audiences, web events, and third-party attributes into features is uniquely valuable. Yet its internal docs, produced in this case, describe using one-hot encodings, hashed categorical features, and frequency caps in ways that mirror open-source libraries and industry talks. Plaintiff has not identified any novel transformation or loss function beyond these standard approaches.
+
+ARGUMENT
+
+I. PLAINTIFF'S FEATURE ENGINEERING APPROACH IS NOT SUFFICIENTLY DISTINCT FROM PUBLIC PRACTICE.
+
+To qualify as a trade secret, a method must be more than a straightforward application of known techniques. Here, Plaintiff's lookalike pipeline applies common recipes found in conference proceedings, and its incremental tweaks are neither disclosed nor specified with enough detail to allow a jury to distinguish them from general skill.
+
+II. THERE IS NO EVIDENCE THAT DEFENDANT COPIED PLAINTIFF'S SPECIFIC IMPLEMENTATION.
+
+Defendant's engineers testified that they built their lookalike models on top of an existing open-source stack and vendor APIs, following standard whitepapers. Plaintiff can point to no overlapping code, feature names, or configuration artifacts that would bridge the gap from similarity in concept to copying of a concrete implementation.

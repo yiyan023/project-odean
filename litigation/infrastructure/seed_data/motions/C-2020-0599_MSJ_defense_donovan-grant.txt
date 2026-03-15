@@ -1,0 +1,21 @@
+CASE_ID: C-2020-0599
+MOTION_TYPE: MSJ
+SIDE: defendant
+
+INTRODUCTION
+
+Defendant moves for summary judgment on Plaintiff's claim that its high-frequency trading strategies are trade secrets. Plaintiff cannot articulate what aspects of its strategies are protectable beyond generic momentum and mean-reversion concepts, and its core dataset, PX-014, is missing several of the trading days it cites as most profitable. On this record, no reasonable jury could find misappropriation.
+
+STATEMENT OF FACTS
+
+Plaintiff's quant lead, Emily Kovacs, relies on PX-014 as "the primary support" for her unjust-enrichment model. (Kovacs Dep. 88:2–90:7.) She admitted that PX-014 omits multiple days identified in the complaint and that she "understood from ops" that those days were never preserved. Id. Plaintiff has not identified any non-public indicator or execution logic that is not derivable from observable market behavior.
+
+ARGUMENT
+
+I. PLAINTIFF'S STRATEGY DESCRIPTIONS ARE TOO VAGUE TO BE PROTECTABLE.
+
+The law does not permit a plaintiff to label "being better at trading" a trade secret. Plaintiff's descriptions of "microstructure-aware momentum" and "adaptive liquidity capture" lack the specificity required under Vertex and its progeny. There are no specific parameterizations or signal definitions that the Court could reasonably ask a jury to evaluate.
+
+II. THE INCOMPLETE TICK DATA UNDERMINES ANY CAUSAL STORY OF MISAPPROPRIATION.
+
+PX-014's gaps mirror the spoliation problems in Helios. Without a complete set of trades for the key periods, Plaintiff cannot reliably attribute any performance to its alleged secrets rather than to luck or public information. The missing days also prevent any robust comparison between Plaintiff's results and Defendant's, further defeating any inference of copying or use.

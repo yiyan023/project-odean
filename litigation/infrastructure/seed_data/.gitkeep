@@ -1,0 +1,3 @@
+# Seed data lives here. Populate by running from repo root:
+#   python3 samples/legal_ai_litigation_strategy/generate_data.py
+# Or copy contents of project-odean/data/ (including motions/ and rulings/) here.

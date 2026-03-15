@@ -1,0 +1,21 @@
+CASE_ID: C-2021-0055
+MOTION_TYPE: MSJ
+SIDE: plaintiff
+
+INTRODUCTION
+
+Plaintiff moves for summary judgment on liability. Defendant's competing continuous-integration optimization product reproduces the same pipeline orchestration patterns, cache invalidation heuristics, and parallelization strategies described in Plaintiff's confidential design documents. There is no genuine dispute that Defendant misappropriated those designs through former employees.
+
+STATEMENT OF FACTS
+
+Plaintiff's CI/CD optimization pipelines incorporate a combination of queueing theory and empirical telemetry to decide when to batch jobs, when to fan out test shards, and when to reuse cached artifacts. Internal specs and dashboards—never shared outside Plaintiff—encode those policies. Within six months of hiring Plaintiff's former DevOps lead, Defendant released a "smart pipeline" feature set that mirrored the same decision rules.
+
+ARGUMENT
+
+I. PLAINTIFF HAS IDENTIFIED DISCRETE, PROTECTABLE TRADE SECRETS.
+
+Unlike cases where plaintiffs assert that an entire platform is the trade secret, Plaintiff here points to specific decision rules and thresholds implemented in its orchestration service. Those rules are not inferable from public documentation, and access controls limited them to a small engineering group.
+
+II. DEFENDANT'S INDEPENDENT DEVELOPMENT STORY IS NOT SUPPORTED BY THE RECORD.
+
+Defendant has produced no contemporaneous design documents predating its hiring of Plaintiff's former employees that could explain the convergence. The overlap in configuration flags and pipeline states—down to internal naming conventions—supports only one conclusion: Defendant built its optimization features on top of Plaintiff's confidential framework.

@@ -1,0 +1,7 @@
+CASE_ID: C-2021-1004
+MOTION_TYPE: MSJ
+SIDE: plaintiff
+
+INTRODUCTION
+
+Plaintiff moves for partial summary judgment on liability. Defendant's platform mirrors confidential design choices developed at our client.

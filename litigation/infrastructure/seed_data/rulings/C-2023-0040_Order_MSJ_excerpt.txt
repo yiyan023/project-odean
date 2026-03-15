@@ -1,0 +1,5 @@
+Defendant's motion for summary judgment is GRANTED.
+
+Plaintiff characterizes its "SessionIQ" system as a trade secret but never moves beyond high-level descriptions of modeling user sessions with recurrent networks and attention mechanisms—approaches it has already touted in public blog posts and conference presentations. Plaintiff has not identified any specific architecture, feature set, or training procedure that is both non-public and meaningfully distinct from those public disclosures.
+
+Because Plaintiff has failed to draw a clear line between secret and non-secret aspects of its session prediction work, and because there is no evidence that Defendant used any confidential materials beyond what Plaintiff itself placed into the public domain, no reasonable jury could find misappropriation on this record.

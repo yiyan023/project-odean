@@ -1,0 +1,21 @@
+CASE_ID: C-2020-1450
+MOTION_TYPE: PI
+SIDE: plaintiff
+
+INTRODUCTION
+
+Plaintiff moves for a preliminary injunction to prevent Defendant from launching a recommendation feature that copies Plaintiff's cohort-based ranking logic and threatens to erode its competitive edge in the streaming market. Absent injunctive relief, Plaintiff will lose the ability to differentiate on personalization quality.
+
+STATEMENT OF FACTS
+
+PX-045 reflects the cohort-level engagement metrics Plaintiff uses to evaluate and refine its recommendation models—metrics that segment users by device, tenure, and behavioral archetypes. Those cohorts, and the precise way they are combined and weighted, are not shared outside Plaintiff. Defendant's internal growth roadmap, produced in discovery, proposes reusing "Cohort set B" and "Cohort set C" labels that match Plaintiff's internal nomenclature.
+
+ARGUMENT
+
+I. PLAINTIFF IS LIKELY TO SUCCEED ON THE MERITS.
+
+Emails between Defendant's growth head and its data science lead show them asking new hires to "rebuild what Chloe had at [Plaintiff]" and to "pull the same B/C cohorts we used to run at her old shop." Those admissions, coupled with the similarity of cohort structures, support a strong inference of misappropriation.
+
+II. THE BALANCE OF EQUITIES FAVORS MAINTAINING THE STATUS QUO.
+
+Plaintiff has spent years and substantial resources tuning its cohorts. Defendant only recently began building its own recommendation stack and can do so without relying on Plaintiff's designs. A narrowly tailored injunction barring use of cohort structures derived from PX-045 will prevent irreparable harm while allowing legitimate competition.

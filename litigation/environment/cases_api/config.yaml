@@ -1,0 +1,6 @@
+# Cases API configuration
+# Override via environment: SEED_DATA_DIR (default /app/seed_data)
+server:
+  port: 5000
+data:
+  seed_dir: "/app/seed_data"  # set by SEED_DATA_DIR in production

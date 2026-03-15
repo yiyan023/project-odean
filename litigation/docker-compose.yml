@@ -1,0 +1,110 @@
+services:
+  halcyon-pierce-cases-api:
+    build: ./environment/cases_api
+    container_name: halcyon-pierce-cases-api
+    environment:
+      SEED_DATA_DIR: /app/seed_data
+    volumes:
+      - ./environment/_seed_data:/app/seed_data:ro
+    networks:
+      - halcyon-pierce-network
+
+  halcyon-pierce-motions-api:
+    build: ./environment/motions_api
+    container_name: halcyon-pierce-motions-api
+    environment:
+      SEED_DATA_DIR: /app/seed_data
+    volumes:
+      - ./environment/_seed_data:/app/seed_data:ro
+    networks:
+      - halcyon-pierce-network
+
+  halcyon-pierce-rulings-api:
+    build: ./environment/rulings_api
+    container_name: halcyon-pierce-rulings-api
+    environment:
+      SEED_DATA_DIR: /app/seed_data
+    volumes:
+      - ./environment/_seed_data:/app/seed_data:ro
+    networks:
+      - halcyon-pierce-network
+
+  halcyon-pierce-experts-api:
+    build: ./environment/experts_api
+    container_name: halcyon-pierce-experts-api
+    environment:
+      SEED_DATA_DIR: /app/seed_data
+    volumes:
+      - ./environment/_seed_data:/app/seed_data:ro
+    networks:
+      - halcyon-pierce-network
+
+  halcyon-pierce-evidence-api:
+    build: ./environment/evidence_api
+    container_name: halcyon-pierce-evidence-api
+    environment:
+      SEED_DATA_DIR: /app/seed_data
+    volumes:
+      - ./environment/_seed_data:/app/seed_data:ro
+    networks:
+      - halcyon-pierce-network
+
+  halcyon-pierce-depositions-api:
+    build: ./environment/depositions_api
+    container_name: halcyon-pierce-depositions-api
+    environment:
+      SEED_DATA_DIR: /app/seed_data
+    volumes:
+      - ./environment/_seed_data:/app/seed_data:ro
+    networks:
+      - halcyon-pierce-network
+
+  halcyon-pierce-citations-api:
+    build: ./environment/citations_api
+    container_name: halcyon-pierce-citations-api
+    environment:
+      SEED_DATA_DIR: /app/seed_data
+    volumes:
+      - ./environment/_seed_data:/app/seed_data:ro
+    networks:
+      - halcyon-pierce-network
+
+  halcyon-pierce-internal-api:
+    build: ./environment/internal_api
+    container_name: halcyon-pierce-internal-api
+    environment:
+      SEED_DATA_DIR: /app/seed_data
+    volumes:
+      - ./environment/_seed_data:/app/seed_data:ro
+    networks:
+      - halcyon-pierce-network
+
+  halcyon-pierce-nginx:
+    build: ./environment/nginx
+    container_name: halcyon-pierce-nginx
+    ports:
+      - "80:80"
+    depends_on:
+      - halcyon-pierce-cases-api
+      - halcyon-pierce-motions-api
+      - halcyon-pierce-rulings-api
+      - halcyon-pierce-experts-api
+      - halcyon-pierce-evidence-api
+      - halcyon-pierce-depositions-api
+      - halcyon-pierce-citations-api
+      - halcyon-pierce-internal-api
+    networks:
+      halcyon-pierce-network:
+        aliases:
+          - cases.halcyon-pierce.internal
+          - motions.halcyon-pierce.internal
+          - rulings.halcyon-pierce.internal
+          - experts.halcyon-pierce.internal
+          - evidence.halcyon-pierce.internal
+          - depositions.halcyon-pierce.internal
+          - citations.halcyon-pierce.internal
+          - internal.halcyon-pierce.internal
+
+networks:
+  halcyon-pierce-network:
+    driver: bridge

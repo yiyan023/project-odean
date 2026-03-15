@@ -1,0 +1,21 @@
+CASE_ID: C-2018-0220
+MOTION_TYPE: MSJ
+SIDE: plaintiff
+
+INTRODUCTION
+
+Plaintiff moves for partial summary judgment on liability. Internal emails and code review comments show that Defendant's ad platform adopted Plaintiff's bidding strategies wholesale within months of hiring away two of Plaintiff's senior quants. The undisputed record demonstrates that Defendant's model structure and input features mirror Plaintiff's confidential designs.
+
+STATEMENT OF FACTS
+
+As described in PX-012 and Dr. Soto's report, Plaintiff's core secrets are the feature engineering pipeline for real-time bidding—how it encodes user context, publisher attributes, and historical performance into a compact feature vector—and the way those features feed into a multi-stage model. Defendant's internal design docs, produced after suit was filed, copy that structure nearly verbatim, down to the naming of certain composite signals.
+
+ARGUMENT
+
+I. DEFENDANT HAD ACCESS TO PLAINTIFF'S CONFIDENTIAL DESIGNS.
+
+The record shows that Plaintiff's former quants retained access to internal Confluence pages and code snippets long after they announced their departure. Those pages, which were never shared outside Plaintiff and are not reflected in any public marketing, include detailed diagrams of the bidding stack and feature schemas. Defendant has no alternative explanation for how its team converged so quickly on the same architecture.
+
+II. THE SUBSTANTIAL SIMILARITIES CANNOT BE EXPLAINED BY INDUSTRY PRACTICE ALONE.
+
+While some aspects of RTB are standard, the specific way Plaintiff combines lookback windows, frequency caps, and risk controls is not. Defendant's contention that it simply followed "best practices" is belied by the near-identical configuration of rare-event penalties and pacing multipliers, which Dr. Soto shows are highly unlikely to arise independently.

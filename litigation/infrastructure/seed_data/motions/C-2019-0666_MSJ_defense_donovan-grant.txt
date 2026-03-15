@@ -1,0 +1,21 @@
+CASE_ID: C-2019-0666
+MOTION_TYPE: MSJ
+SIDE: defendant
+
+INTRODUCTION
+
+Defendant moves for summary judgment on Plaintiff's trade secret misappropriation claims concerning its ad serving stack. Discovery confirms that Plaintiff still claims its "ad engine as a whole" is the secret and cannot reconstruct how its strategies evolved over time due to missing auction logs. That combination of an overbroad theory and spoliated evidence is exactly what led courts in Vertex and Helios to grant judgment as a matter of law.
+
+STATEMENT OF FACTS
+
+Plaintiff's ad operations lead, Sonia Patel, testified that the alleged secrets encompass "the whole ad stack. The bidding, pacing, frequency capping — it's all intertwined." (Patel Dep. 55:10–57:3.) She further admitted that PX-061 shows gaps in auction logs because the retention policy was shortened, and that there is "not a complete" record of how strategies changed. (Id.)
+
+ARGUMENT
+
+I. PLAINTIFF'S FAILURE TO IDENTIFY DISCRETE SECRETS WARRANTS SUMMARY JUDGMENT.
+
+Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019), rejects precisely this type of "engine as a whole" claim. Without specific models, features, or parameter sets identified, there is no way to instruct a jury or to ensure that any verdict is tethered to a cognizable trade secret rather than general know-how.
+
+II. SPOLIATION OF AUCTION LOGS SUPPORTS ADVERSE INFERENCES UNDER HELIOS.
+
+PX-061 confirms that Plaintiff allowed logs for key periods to be overwritten. Under Helios Labs v. Solace Corp., 721 F. Supp. 2d 1189 (N.D. Cal. 2010), the Court should infer that missing data would not have corroborated Plaintiff's theory and should narrow or dismiss the claims accordingly. Without a full record, Plaintiff cannot meet its burden to show misappropriation or damages.

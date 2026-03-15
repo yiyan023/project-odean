@@ -1,0 +1,7 @@
+This matter is before the Court on the parties' cross-motions for summary judgment.
+
+Both motions are DENIED.
+
+Plaintiff continues to speak in terms of its "bidding stack as a whole" and has not cleanly separated potentially protectable model components from industry-standard RTB practices. Defendant, for its part, overstates the degree to which public documentation and open-source tools necessarily replicate Plaintiff's internal designs.
+
+On this record, reasonable jurors could differ as to (1) whether Plaintiff's real-time bidding system contains any discrete, non-public elements that rise to the level of trade secrets, and (2) whether any such elements were used by Defendant. Those questions of fact must be resolved at trial rather than on summary judgment.

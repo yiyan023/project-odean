@@ -1,0 +1,5 @@
+CASE_ID: C-2022-0678
+MOTION_TYPE: MSJ/PI/Daubert
+SIDE: plaintiff/defendant
+
+Placeholder motion text.

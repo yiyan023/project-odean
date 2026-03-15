@@ -1,0 +1,21 @@
+CASE_ID: C-2019-0113
+MOTION_TYPE: MSJ
+SIDE: defendant
+
+INTRODUCTION
+
+Defendant moves for summary judgment on Plaintiff's claims that its onboarding scoring model constitutes a trade secret. Plaintiff has oscillated between asserting rights in its entire onboarding funnel and in vaguely described "machine-learned weights," only later attempting to anchor its theory in Appendix A to PX-017. Under Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019), that shifting, overbroad approach is fatal.
+
+STATEMENT OF FACTS
+
+Plaintiff's product manager, Nikhil Rao, ultimately testified that the alleged trade secrets are "the feature weights and thresholds in Appendix A to PX-017, plus the scoring logic described in the confidential spec." (Rao Dep. 23:8–25:3.) Yet Plaintiff's public blog posts and conference talks describe the same scoring approach at a high level, and many of the features (e.g., project creation, first publish, domain connection) are standard metrics in the industry.
+
+ARGUMENT
+
+I. PLAINTIFF'S OVERBROAD ASSERTIONS CANNOT SUPPORT A JURY VERDICT.
+
+For most of the case, Plaintiff argued that its "onboarding funnel as a whole" was the trade secret. Only after discovery closed did it point to Appendix A as a purportedly discrete secret. That sequence mirrors Vertex, where the court held that a plaintiff cannot salvage a defective, amorphous theory by belatedly narrowing it when confronted with summary judgment.
+
+II. DEFENDANT'S PRACTICES DERIVE FROM PUBLICLY DOCUMENTED BEST PRACTICES.
+
+DX-022 and the testimony of Mark Hastings show that Defendant implemented an onboarding scoring model after reviewing public case studies and vendor guidance, not by copying Plaintiff's internal materials. There is no evidence Defendant had access to Appendix A, and Plaintiff has not traced any alleged misappropriation to that document.

@@ -1,0 +1,5 @@
+# Case Depositions API
+server:
+  port: 5000
+data:
+  seed_dir: "/app/seed_data"

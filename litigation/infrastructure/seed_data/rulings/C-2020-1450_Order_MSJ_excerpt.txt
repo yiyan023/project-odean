@@ -1,0 +1,5 @@
+Defendant's motion for summary judgment is DENIED.
+
+The parties sharply dispute whether Defendant independently developed its recommendation models or instead built them using Plaintiff's cohort structures and internal metrics. PX-045 and related communications create a triable issue as to the extent of overlap between the two systems and the source of that overlap.
+
+Because material factual disputes remain regarding access, similarity, and independent development, the Court cannot resolve liability as a matter of law. Those issues will be submitted to the jury.

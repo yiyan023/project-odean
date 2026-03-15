@@ -1,0 +1,21 @@
+CASE_ID: C-2023-0040
+MOTION_TYPE: MSJ
+SIDE: defendant
+
+INTRODUCTION
+
+Defendant moves for summary judgment on Plaintiff's claims that its session prediction models are trade secrets. Plaintiff has offered shifting, high-level descriptions of its "engagement graph" and "session score" but has never pinned down which aspects of its models, if any, are beyond what is disclosed in its own technical marketing.
+
+STATEMENT OF FACTS
+
+Plaintiff announced its "SessionIQ" models in a widely viewed blog series, explaining that it predicts which users are likely to abandon or binge based on recent behavior. The posts describe using recurrent neural networks and attention mechanisms over sequences of events. In discovery, Plaintiff produced only slideware and dashboards—no detailed model cards or feature specs—that add anything beyond those public descriptions.
+
+ARGUMENT
+
+I. PLAINTIFF HAS FAILED TO IDENTIFY SPECIFIC CONFIDENTIAL INFORMATION.
+
+Under Vertex, it is not enough to say "our way of modeling sessions" is the trade secret. Plaintiff has not identified particular architectures, hyperparameters, or feature embeddings that differ from the techniques it already touts publicly. Without that specificity, the Court cannot meaningfully instruct a jury.
+
+II. DEFENDANT'S INDEPENDENT DEVELOPMENT IS UNDISPUTED.
+
+Defendant's data science team documented its use of off-the-shelf architectures and open-source tooling long before any alleged access to Plaintiff's materials. Plaintiff has not challenged the authenticity of those design histories, nor has it identified any overlapping code or configuration that could support an inference of copying.

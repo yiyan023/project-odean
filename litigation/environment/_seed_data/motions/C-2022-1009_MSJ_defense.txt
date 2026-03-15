@@ -1,0 +1,7 @@
+CASE_ID: C-2022-1009
+MOTION_TYPE: MSJ
+SIDE: defense
+
+INTRODUCTION
+
+Defendant moves for summary judgment. Plaintiff has not identified its alleged trade secrets with reasonable particularity. See Vertex Systems v. NovaTech, 945 F.3d 102 (9th Cir. 2019).

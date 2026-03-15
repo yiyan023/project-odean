@@ -1,0 +1,5 @@
+Defendant's Daubert motion directed to Plaintiff's productivity uplift expert, Prof. Hannah Ortiz, is GRANTED IN PART and DENIED IN PART.
+
+Prof. Ortiz's headline opinion—that Plaintiff's CI/CD optimizations produced a "25% developer productivity gain across the industry"—rests on extrapolations far beyond the data. That portion of her testimony, which assumes widespread adoption and uniform effects unconstrained by the record, is excluded.
+
+At the same time, Prof. Ortiz also offers a more modest calculation tied to actual usage logs and time-saved measurements within a subset of Plaintiff's customers. That narrower analysis employs a sufficiently reliable method—comparing pre- and post-deployment cycle times on matched projects—to assist the jury, and it will be permitted with appropriate limiting instructions.
