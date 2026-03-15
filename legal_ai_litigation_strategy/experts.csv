@@ -25,7 +25,7 @@ EXP-C2023-YIELD-PL-1,C-2023-0310,us,Dr. Matteo Ricci,damages,lost_profits,expert
 EXP-C2023-YIELD-DF-1,C-2023-0310,them,Dr. Sunhee Park,industry_practices,misappropriation,expert_reports/C-2023-0310_DX_Industry_Expert_Park.pdf,true,false,none,true,relied_on_defense_industry
 EXP-G1000,C-2017-0541,us,Prof. David Foster,statistics,causation,expert_reports/C-2017-0541_PX_Statistics_Foster.pdf,true,true,granted,true,mixed_weight
 EXP-G1001,C-2017-0541,them,Dr. Sarah Brooks,forensics,valuation,expert_reports/C-2017-0541_DX_Forensics_Brooks.pdf,false,true,none,true,relied_on_defense_damages
-EXP-G1002,C-2022-0678,us,Dr. James Hayes,forensics,lost_profits,expert_reports/C-2022-0678_PX_Forensics_Hayes.pdf,true,false,none,false,
+EXP-G1002,C-2022-0678,us,Dr. James Hayes,forensics,lost_profits,expert_reports/C-2022-0678_PX_Forensics_Hayes.pdf,true,false,none,false,mixed_weight
 EXP-G1003,C-2023-0129,them,Prof. Maria Rivera,forensics,causation,expert_reports/C-2023-0129_DX_Forensics_Rivera.pdf,true,false,none,true,mixed_weight
 EXP-G1004,C-2023-0129,us,Dr. Robert Ward,damages,lost_profits,expert_reports/C-2023-0129_PX_Damages_Ward.pdf,false,true,none,false,
 EXP-G1005,C-2016-0001,them,Dr. Jennifer Peterson,statistics,causation,expert_reports/C-2016-0001_DX_Statistics_Peterson.pdf,true,true,denied,false,
@@ -56,6 +56,6 @@ EXP-G1029,C-2019-0901,them,Dr. Michelle Foster,damages,apportionment,expert_repo
 EXP-G1030,C-2020-0044,us,Prof. Timothy Gonzales,statistics,misappropriation,expert_reports/C-2020-0044_PX_Statistics_Gonzales.pdf,true,true,granted_in_part,true,limited_plaintiff_damages
 EXP-G1031,C-2020-0044,them,Dr. Amanda Bryant,forensics,causation,expert_reports/C-2020-0044_DX_Forensics_Bryant.pdf,true,true,denied,false,
 EXP-G1032,C-2020-0208,us,Dr. Jason Alexander,industry_practices,lost_profits,expert_reports/C-2020-0208_PX_Industry_practices_Alexander.pdf,true,false,none,true,relied_on_defense_industry
-EXP-G1033,C-2020-0208,them,Prof. Stephanie Russell,damages,causation,expert_reports/C-2020-0208_DX_Damages_Russell.pdf,false,false,none,false,
+EXP-G1033,C-2020-0208,them,Prof. Stephanie Russell,damages,causation,expert_reports/C-2020-0208_DX_Damages_Russell.pdf,false,false,none,false,mixed_weight
 EXP-G1034,C-2020-0880,us,Dr. Ryan Griffin,forensics,unjust_enrichment,expert_reports/C-2020-0880_PX_Forensics_Griffin.pdf,true,false,none,true,relied_on_defense_industry
 EXP-G1035,C-2020-0880,them,Dr. Melissa Diaz,statistics,causation,expert_reports/C-2020-0880_DX_Statistics_Diaz.pdf,true,false,none,true,relied_on_plaintiff_damages
